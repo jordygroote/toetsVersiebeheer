@@ -1,0 +1,50 @@
+  505  git add index.html 
+  506  git commit index.html -m "Index toegeveogd nielsie"
+  507  git commit -m "HTML structuur aangemaakt"
+  508  git rm index.html
+  509  git rm -rf index.html 
+  510  git status
+  511  ls
+  512  ls -all
+  513  touch index.html
+  514  git add index.html
+  515  git commit -m "Goeie websding met html tags"
+  516  git status
+  523  git branch zandbak
+  524  git checkout zandbak
+  525  git checkout zandbak
+  526  git commit -m "wilders toegevoegd"
+  527  git add index.html 
+  528  git commit -m "Wilders toegeveogd"
+  529  git checkout master
+  530  git add index.html 
+  531  git commit -m "H1 tag toegevoegd"
+  532  git rebase master zandbak
+  533  git merge zandbak
+  534  git merge master zandbak
+  535  git commit -m "alles klar jawohl"
+  536  git commit -a
+  537  git add index.html 
+  538  git commit -m "Alles klar jawohl"
+  539  touch commandos.log
+  540  git add commandos.log
+  541  git commit -m "Commandos toegevoegd"
+  543  git remote add origin https://github.com/jordygroote/toetsVersiebeheer.git
+  544  git push -u origin master
+  545  git checkout master
+  546  git push origin master
+  547  git checkout zandbak
+  548  git push origin master
+  549  git commit -m "shizzz"
+  550  git add geert-wilders1.jpg 
+  551  git commit -m "Wilders toegevoegd"
+  552  git push origin zankbak
+  553  git push origin zandbak
+  554  git pull origin zandbak
+  555  git status
+  556  git commit -m "fix merges"
+  557  git status
+  558  git add index.html 
+  559  git commit -m "goeie index weer gefixd"
+  560  git push origin zandbak
+  561  history
